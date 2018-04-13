@@ -1,4 +1,4 @@
-# mackerel-plugin-zookeeper
+# mackerel-plugin-zookeeper [![Build Status](https://travis-ci.org/y-kuno/mackerel-plugin-zookeeper.svg?branch=master)](https://travis-ci.org/y-kuno/mackerel-plugin-zookeeper)
 
 Zookeeper plugin for mackerel.io agent. This repository releases an artifact to Github Releases, which satisfy the format for mkr plugin installer.
 
