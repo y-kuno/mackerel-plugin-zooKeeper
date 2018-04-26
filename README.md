@@ -28,3 +28,7 @@ command = "/path/to/mackerel-plugin-zookeeper"
 ## Documents
 
 * [ZooKeeper Commands](https://zookeeper.apache.org/doc/r3.4.11/zookeeperAdmin.html#sc_zkCommands)
+
+## Screenshot
+
+![Screenshot](./docs/images/mackerel-plugin-zookeeper.png)
